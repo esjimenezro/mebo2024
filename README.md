@@ -68,6 +68,3 @@ En este repositorio encontrarás las notas para el curso de Métodos Estadístic
   - Regresión binomial.
   - Regresión de poisson.
   - Modelos multinomiales.
-
-
-  
