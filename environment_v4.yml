@@ -1,6 +1,8 @@
 name: mebo2024_v4
 channels:
 - conda-forge
+- anaconda
+- defaults
 dependencies:
   - jupyter
   - jupyterlab
